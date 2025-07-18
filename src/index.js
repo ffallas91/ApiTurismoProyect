@@ -5,7 +5,7 @@ const RouterAtraccionesTurismo = require("./Routes/Atracciones_Turismo");
 const RouterUsuariosTurismo = require("./Routes/Usuarios_Acceso_Turismo");
 
 const app = express();
-const port = 4321;
+const port = process.env.PORT || 4321;
 
 // Middleware para permitir CORS
 app.use((req, res, next) => {
