@@ -5,18 +5,18 @@
             "idProvincia": "1",
             "nombreProvincia": "Guanacaste",
             "atracciones": [
-            { "id": 1, "nombre": "RIU Palace" },
-            { "id": 2, "nombre": "Planet Hollywood" },
-            { "id": 3, "nombre": "Condovac" }
+            { "id": 1, "nombre": "Hotel Nekajui,a Ritz‑Carlton Reserve" },
+            { "id": 2, "nombre": "Hotel JW Marriott Guanacaste Resort & Spa" },
+            { "id": 3, "nombre": "Hotel Wyndham Tamarindo" }
             ]
         },
         {
             "idProvincia": "2",
-            "nombreProvincia": "Puntarenas",
+            "nombreProvincia": "Alajuela",
             "atracciones": [
-            { "id": 1, "nombre": "Hotel Fiesta Resort" },
-            { "id": 2, "nombre": "Hotel Crocs" },
-            { "id": 3, "nombre": "Best Western Jaco Beach" }
+            { "id": 1, "nombre": "Hotel Nayara Tented Camp" },
+            { "id": 2, "nombre": "Hotel Tabacón Thermal Resort & Spa" },
+            { "id": 3, "nombre": "Hotel Martino Spa & Resort" }
             ]
         }
     ]
